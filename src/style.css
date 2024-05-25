@@ -113,3 +113,17 @@ body {
     font-size: 16px;
     transform: translate(-50%, -50%);
 }
+
+@media (max-width: 450px) {
+    #gif-img {
+        width: 350px;
+        height: 250px;
+    }
+
+    h2 {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+}
